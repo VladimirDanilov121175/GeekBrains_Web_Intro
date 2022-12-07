@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<basket>
+    <set>
+        <setName>Junior set</setName>
+        <quantity>2</quantity>
+        <addItems>true</addItems>
+        <additional>
+            <drinks>
+                <drink>
+                    <name>Buratino junior</name>
+                    <volume>0.3</volume>
+                    <addStraw>true</addStraw>
+                    <addIce>false</addIce>
+                    <quantity>1</quantity>
+                    <price>50</price>
+                    <sum>50</sum>
+                </drink>
+                <drink>
+                    <name>Tarkhun junior</name>
+                    <volume>0.3</volume>
+                    <addStraw>true</addStraw>
+                    <addIce>false</addIce>
+                    <quantity>1</quantity>
+                    <price>55</price>
+                    <sum>55</sum>
+                </drink>
+            </drinks>
+            <souces>
+                <souse>
+                    <name>Cheese</name>
+                    <quantity>2</quantity>
+                    <price>40</price>
+                    <sum>80</sum>
+                </souse>
+            </souces>
+        </additional>
+        <setPrice>170</setPrice>
+        <baseSum>340</baseSum>
+        <additSum>185</additSum>
+    </set>
+    <set>
+        <setName>Bigfest Party XXL</setName>
+        <quantity>1</quantity>
+        <addItems>true</addItems>
+        <additional>
+            <drinks>
+                <drink>
+                    <name>Kloster Pilsner</name>
+                    <volume>0.5</volume>
+                    <addStraw>false</addStraw>
+                    <addIce>false</addIce>
+                    <quantity>10</quantity>
+                    <price>100</price>
+                    <sum>1000</sum>
+                </drink>
+            </drinks>
+            <souces>
+                <souse>
+                    <name>Chili hot</name>
+                    <quantity>2</quantity>
+                    <price>40</price>
+                    <sum>80</sum>
+                </souse>
+                <souse>
+                    <name>Cheese</name>
+                    <quantity>2</quantity>
+                    <price>40</price>
+                    <sum>80</sum>
+                </souse>
+            </souces>
+            <pizzas>
+                <pizza>
+                    <name>Cheesy meesy</name>
+                    <quantity>4</quantity>
+                    <diameter>40</diameter>
+                    <price>250</price>
+                    <sum>1000</sum>
+                </pizza>
+            </pizzas>
+        </additional>
+        <setPrice>1700</setPrice>
+        <baseSum>1700</baseSum>
+        <additSum>2160</additSum>
+    </set>
+    <freeDelivery>true</freeDelivery>
+    <totalCost>2685</totalCost>
+</basket>

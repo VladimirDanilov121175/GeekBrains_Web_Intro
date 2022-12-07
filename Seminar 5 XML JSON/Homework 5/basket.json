@@ -1,0 +1,96 @@
+{
+    "BASKET": {
+        "SETS": [
+            {
+                "setName": "Junior set",
+                "quantity": "2",
+                "addItems": "true",
+                "additional": {
+                    "DRINKS": {
+                        "NONALCOHOLIC": [
+                            {
+                                "name": "Buratino junior",
+                                "volume": "0.3",
+                                "addStraw": "true",
+                                "addIce": "false",
+                                "quantity": "1",
+                                "price": "50",
+                                "sum": "50"
+                            },
+                            {
+                                "name": "Tarkhun junior",
+                                "volume": "0.3",
+                                "addStraw": "true",
+                                "addIce": "false",
+                                "quantity": "1",
+                                "price": "55",
+                                "sum": "55"
+                            }
+                        ]
+                    },
+                    "SOUCES": {
+                        "CHEESY": {
+                            "name": "4 Cheeses",
+                            "quantity": "2",
+                            "price": "40",
+                            "sum": "80"
+                        }
+                    }
+                },
+                "SET PRICE": "170",
+                "BASE SET COST": "340",
+                "ADDITIONAL ITEMS COST": "185"
+            },
+            {
+                "setName": "Bigfest Party XXL",
+                "quantity": "1",
+                "addItems": "true",
+                "additional": {
+                    "DRINKS": {
+                        "BEERS": {
+                            "name": "Kloster Pilsner",
+                            "volume": "0.5",
+                            "addStraw": "false",
+                            "addIce": "false",
+                            "quantity": "10",
+                            "price": "100",
+                            "sum": "1000"
+                        }
+                    },
+                    "SOUCES": [
+                        {
+                            "HOT SOUCES": {
+                                "name": "Chili hot",
+                                "quantity": "2",
+                                "price": "40",
+                                "sum": "80"
+                            }
+                        },
+                        {
+                            "CHEESY": {
+                                "name": "Cheese",
+                                "quantity": "2",
+                                "price": "40",
+                                "sum": "80"
+                            }
+                        }
+                    ],
+                    "PIZZAS": {
+                        "CHEESY": {
+                            "name": "Cheesy meesy",
+                            "quantity": "4",
+                            "diameter": "40",
+                            "price": "250",
+                            "sum": "1000"
+                        }
+                    }
+                },
+                "SET PRICE": "1700",
+                "BASE SET COST": "1700",
+                "ADDITIONAL ITEMS COST": "2160"
+            }
+        ],
+        "FREE DELIVERY": "true",
+        "TOTAL COST": "2685"
+    }
+}
